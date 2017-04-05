@@ -15,6 +15,7 @@
 ```
 message: create successliAndLsjLee organization
 message: LsjLee use the project
+message：LsjLee create an organization
 ```
 
 
